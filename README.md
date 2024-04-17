@@ -1,4 +1,4 @@
-# DairyCampus Data Exporter
+# De Laval VMS data exporter
 
 This project automates the export of dairy farming data to Azure Storage from the DairyCampus database. It extracts various datasets related to body condition score (BCS), milk yield, and more, and uploads them to Azure Storage for further analysis and processing.
 
